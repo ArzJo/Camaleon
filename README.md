@@ -9,6 +9,7 @@
 # ⚙️ REQUIREMENTS
 - Pixel or AOSP based custom ROM.
 - ROOT access ([Magisk](https://github.com/topjohnwu/Magisk) (Recommended) / [KernelSU](https://github.com/tiann/KernelSU) / [APatch](https://github.com/bmax121/APatch)).
+- [Unlocker](https://play.google.com/store/apps/details?id=com.arz.camaleon.unlocker) app (paid) to access premium features (optional).
 - Custom recovery supported by decryption, ROM compatible with safe mode boot or PC (just in case there is a possible bsod/bootloop).
 
 # 🔧 How to install?
